@@ -10,8 +10,6 @@ namespace VS
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Sandra");
-			Console.WriteLine("Main");
 		}
 	}
 }
